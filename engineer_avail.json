@@ -1,0 +1,20 @@
+[
+    {
+        "engineer_id": 1,
+        "available_day": "Monday",
+        "slots": "1100110011001100",
+        "updated_timestamp": "2024-04-28T12:00:00Z"
+    },
+    {
+        "engineer_id": 1,
+        "available_day": "Tuesday",
+        "slots": "1111000011110000",
+        "updated_timestamp": "2024-04-28T12:00:00Z"
+    },
+    {
+        "engineer_id": 2,
+        "available_day": "Monday",
+        "slots": "1111111111111111",
+        "updated_timestamp": "2024-04-28T12:00:00Z"
+    }
+]
